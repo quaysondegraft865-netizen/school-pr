@@ -1,0 +1,6 @@
+{
+  "name": "NapMeet AI",
+  "description": "AI meeting assistant for Google Meet that attends meetings on your behalf with smart transcription, summaries, and action items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
